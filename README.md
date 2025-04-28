@@ -7,7 +7,7 @@ Computer Science Student @ IIT SriLanka
 - Studying at [<img src="https://www.iit.ac.lk/wp-content/themes/iitnew/assets/img/logo.png" height="24">](https://www.iit.ac.lk/)
 
 - Social Presence
- <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nadhir-noori-029660322/) <br/> [<img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=blue&logo=facebook" />]((https://www.facebook.com/nadhir_noori/)
+ <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nadhir-noori-029660322/) <br/> [<img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=blue&logo=facebook" />](https://www.facebook.com/profile.php?id=100078742540900)
 
 
 ### I code in
