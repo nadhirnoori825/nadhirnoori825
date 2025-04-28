@@ -18,8 +18,8 @@ Computer Science Student @ IIT SriLanka
 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/HP-Laptop_15-ED1C24?style=for-the-badge&logo=hp&logoColor=blue"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-MX350-76B900?style=for-the-badge&logo=nvidia&logoColor=blue"/>  
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Nadhir's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadhirnoori825&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/NadhirNoori?theme=dark&font=Fahkwang&ext=contest)](https://leetcode.com/NadhirNoori)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nadhir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nadhirnoori825&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
