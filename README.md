@@ -2,7 +2,7 @@
 
 Computer Science Student @ IIT SriLanka
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio]                                               
+- 🔭 Here's my [portfolio](src="https://nadhir-noori.web.app/"] )                                           
 - 🌱 I’m currently pursuing my degree 
 - Studying at [<img src="https://www.iit.ac.lk/wp-content/themes/iitnew/assets/img/logo.png" height="24">](https://www.iit.ac.lk/)
 
