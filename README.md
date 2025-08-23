@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Nadhir Noori
 
 Computer Science Student @ IIT SriLanka
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://cdn.dribbble.com/userupload/20267249/file/original-9cea84d6ca3373fdfa0936f9027c87eb.gif" >
 - 🔭 Here's my [portfolio](https://nadhir-noori.web.app/)                                           
 - 🌱 I’m currently pursuing my degree 
 - Studying at [<img src="https://www.iit.ac.lk/wp-content/themes/iitnew/assets/img/logo.png" height="24">](https://www.iit.ac.lk/)
