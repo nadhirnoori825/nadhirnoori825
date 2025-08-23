@@ -8,7 +8,8 @@ Computer Science Student @ IIT SriLanka
 - 📍 **University of Westminster (UK)**   *Degree Awarding Institution*  [<img src="https://www.graduatesfirst.com/wp-content/uploads/2024/09/Westminster.jpg" height="24" >](https://www.westminster.ac.uk/)
 
 - Social Presence
- <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nadhir-noori-029660322/) <br/> [<img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=blue&logo=facebook" />](https://www.facebook.com/profile.php?id=100078742540900)
+ <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nadhir-noori-029660322/) <br/> [<img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=blue&logo=facebook" />](https://www.facebook.com/profile.php?id=100078742540900)<br/>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.i.nadhir.i@gmail.com)
 
 
 ### I code in
