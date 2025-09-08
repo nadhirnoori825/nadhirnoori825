@@ -9,6 +9,7 @@ Computer Science Student @ IIT SriLanka
 
 - Social Presence
  <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nadhir-noori-76927b379/) <br/> [<img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=blue&logo=facebook" />](https://www.facebook.com/Nadhir825)<br/>
+ [<img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/nadhir_noori/#)<br />
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.i.nadhirnoori@gmail.com)
 
 
